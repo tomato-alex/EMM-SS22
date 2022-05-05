@@ -22,6 +22,11 @@ List not complete:
 
 
 ### Task sheet 1
+Mostly Theoretical. <br>
+Unsolved ($1.66/5$)
+- 1b, e, i, k
+- 3b has no solution
+- 5 has a simpler way to be solved, but i do not remember it
 
 ### Task sheet 2
 
