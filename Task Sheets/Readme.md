@@ -23,7 +23,7 @@ Unsolved (0.8/4)
 ### Task sheet 4
 Finally some PuLP. <br>
 Dualisierung, Konvex Combinations, Simplex, Linear Problems. <br>
-*Editor note: here i discovered the library PuLP for Linear Programming*
+*Editor note: here i discovered the library PuLP for Linear Programming* <br>
 Unsolved (0/4)
 - **All solved**
 
