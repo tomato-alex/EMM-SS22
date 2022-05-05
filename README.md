@@ -16,6 +16,7 @@ For now atleast I think this is enough. <br>
 ## Libraries
 List not complete:
 - PuLP
+- Scipy
 - Numpy
 - Sympy
 - Matplotlib
