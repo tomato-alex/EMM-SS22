@@ -9,9 +9,10 @@ Unsolved (1.66/5)
 ### Task sheet 2
 This is where the fun begins. <br>
 Simplex Tableau, Basis Solutions, Graphical Solutions. <br>
-Unsolved (0.5/5)
+Unsolved (0/5) 
 - 4 (solved later in Sheet 4, Task 1)
-- 5 has no python solution, but its easy to implement
+- ~~5 has no python solution, but its easy to implement~~ 5 Solved
+- **ALL SOLVED**
 
 ### Task sheet 3
 So I heard you like optimization. <br>
@@ -24,7 +25,7 @@ Finally some PuLP. <br>
 Dualisierung, Konvex Combinations, Simplex, Linear Problems. <br>
 *Editor note: here i discovered the library PuLP for Linear Programming*
 Unsolved (0/4)
-- All solved
+- **All solved**
 
 ### Task sheet 5
 Lemme search for a funny joke. <br>
