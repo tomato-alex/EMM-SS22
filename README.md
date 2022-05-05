@@ -4,11 +4,9 @@ Github Repo with solutions for the Mathematical Modelling Course in the Informat
 ## Disclaimer
 **Not all tasks are currently solved.** <br>
 As it stands there are 31 Tasks in total, divided in 7 Sheets. <br>
-Some of the code is inspired by other's sollutions*. <br>
 You can find the solutions in the Task Sheets folder. <br>
 
-* *These are my solutions, so they might be wrong* <br><br>
-**IF THE SOLUTIONS ARE WRONG, ¯\\_(ツ)_/¯ ** <br><br>
+**IF THE SOLUTIONS ARE WRONG, ¯\\\_(ツ)\_\/¯ ** <br><br>
 
 **Not all tasks are currently solved!!!** <br>
 **I am not responcible of plagiarism that may happen!** <br><br>
